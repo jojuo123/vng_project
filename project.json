@@ -47,6 +47,10 @@
         "src/modules/testnetwork/ScreenNetwork.js",
         "src/modules/animation/Ghost.js",
         "src/modules/animation/util.js",
-        "src/modules/animation/CharacterSprite.js"
+        "src/modules/animation/CharacterSprite.js",
+        "src/modules/gamemonster/ConstantResource.js",
+        "src/modules/gamemonster/gameplay.js",
+        "src/modules/gamemonster/map.js",
+        "src/modules/gamemonster/monster.js"
     ]
 }

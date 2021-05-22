@@ -39,7 +39,7 @@ var ScreenMenu = cc.Layer.extend({
     },
     onPlayClick:function(sender)
     {
-        fr.view(PacmanScreen);
+        fr.view(Gameplay);
     }
 
 });
